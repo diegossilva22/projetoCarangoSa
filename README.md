@@ -15,5 +15,7 @@ no Primeiro semestre do curso de desenvolvimento de sistemas orientados pelo pro
 - Setor financeiro
 - Setor de estoque
 
-  
+O programa foi desenvolvido por meio de uso de procedimentos para tornar o código mais funcional. 
+
+**O projeto já foi entregue mas está sujeito a alterações.**
   
