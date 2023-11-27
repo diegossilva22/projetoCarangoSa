@@ -6,7 +6,7 @@ Projeto de uma montadora de carros chama Carangos Sa desenvolvida na aplicação
 como uma variação da linguagem Portugol. É utilizado em diversas instituições de ensino no Brasil
 para o ensino de lógica de programação.
  
-O Programa desenvolvido pelos alunos Rodrigo, @Eriva-tegin e Diego na disciplina de Lógica de progamação presente
+O Programa desenvolvido pelos alunos Rodrigo, @Eriva-Tegin e Diego na disciplina de Lógica de progamação presente
 no Primeiro semestre do curso de desenvolvimento de sistemas orientados pelo professor Washington.
 
 ### O programa consta:
